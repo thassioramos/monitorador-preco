@@ -19,7 +19,7 @@ Este script monitora o preço de um produto (ex: na Amazon) e envia um e-mail qu
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/monitorador-preco.git
+git clone https://github.com/thassioramos/monitorador-preco
 cd monitorador-preco
 ```
 
@@ -52,7 +52,7 @@ beautifulsoup4
 ## 📤 Portfólio
 
 Este projeto faz parte do meu portfólio como programador júnior.  
-Confira mais em [meu LinkedIn](https://linkedin.com/in/seu-usuario)
+Confira mais em [meu LinkedIn](https://www.linkedin.com/in/thassio-ramos-6b8a41236/)
 
 ## 📜 Licença
 
