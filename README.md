@@ -2,20 +2,20 @@
 
 Este script monitora o preço de um produto (ex: na Amazon) e envia um e-mail quando o valor estiver abaixo do desejado.
 
-## ⚙️ Tecnologias
+## Tecnologias
 
 - Python 3
 - `requests`
 - `BeautifulSoup`
 - `smtplib` (e-mail)
 
-## 🧪 Funcionalidades
+## Funcionalidades
 
 - Coleta o preço diretamente de uma página de produto
 - Compara com um preço desejado
 - Envia alerta por e-mail se o valor estiver menor
 
-## 🚀 Como usar
+## Como usar
 
 1. Clone este repositório:
 ```bash
@@ -38,22 +38,22 @@ pip install -r requirements.txt
 python scraper.py
 ```
 
-## 📦 requirements.txt
+## requirements.txt
 ```txt
 requests
 beautifulsoup4
 ```
 
-## 📝 Observações
+## Observações
 
 - Pode ser adaptado para sites como Buscapé, Kabum, etc.
 - Ideal para praticar scraping, regex, e automação com Python.
 
-## 📤 Portfólio
+## Portfólio
 
 Este projeto faz parte do meu portfólio como programador júnior.  
 Confira mais em [meu LinkedIn](https://www.linkedin.com/in/thassio-ramos-6b8a41236/)
 
-## 📜 Licença
+## Licença
 
 MIT
